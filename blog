@@ -4,23 +4,4 @@ my-photoblog/
 ├── js/
 │   └── main.js
 └── index.html
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <title>我的图片博客</title>
-    <link rel="stylesheet" href="css/styles.css">
-</head>
-<body>
 
-<header>
-    <h1>我的图片博客</h1>
-</header>
-
-<main id="content">
-    <!-- 这里将添加动态生成的图片和描述 -->
-</main>
-
-<script src="js/main.js"></script>
-</body>
-</html>
